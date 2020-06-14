@@ -3,6 +3,43 @@ this is a Rubik's Cube game and solver</br>
 created by me with java language<b> (processing project)</b></br>
 <b>Vidio link :-  </b> https://www.youtube.com/watch?v=rYjXCfMEBmI
 
+
+<h2>
+ how to play this game 
+</h2>
+            <b>                 
+<table border="1">
+<tr>
+<th>Press</th><th>to round</th>
+</tr>
+<tr>
+<td>  r</td><td>right</td>
+</tr>
+<tr>
+<td>  l </td><td>left </td>
+</tr>
+ <tr>
+<td> u </td><td>up</td>
+</tr>
+ <tr>
+<td>   d</td><td>down</td>
+</tr>
+ <tr>
+<td> f </td><td>front </td>
+</tr>
+ <tr>
+<td>   b</td><td>back</td>
+</tr>
+ 
+ 
+</table>
+</b>
+
+<h2>
+ how to solve this cube 
+</h2>
+<b> you should press space to solve this.</b>
+
 <h2> Cube Class </h2>
 <b><code>
  
